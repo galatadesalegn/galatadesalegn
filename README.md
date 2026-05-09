@@ -7,10 +7,10 @@
 </p>
 
 ## 📌 About Me
-- I am an AI engineer and Full-stack web developer. I work with the MERN stack, AI-based Web automation,
-- and modern UI/UX Design. My skills include backend systems, frontend development, APIs, Python, and
-- problem solving.I am focused on building Human-centered AI and intelligent robotics that align with
-- human thinking.
+* I am an AI engineer and Full-stack web developer.
+* I work with the MERN stack, AI-based Web automation, and modern UI/UX Design.
+* My skills include backend systems, frontend development, APIs, Python, and problem solving.
+* I am focused on building Human-centered AI and intelligent robotics that align with human thinking.
 
 
 ## 📊 GitHub Stats & Trophies
