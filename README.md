@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Galata%20Desalegn&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20and%20AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Galata%20Desalegn&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20and%20AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=galatadesalegn">
     <img src="https://komarev.com/ghpvc/?username=galatadesalegn&label=Profile%20views&color=00FFFF&style=flat-square" alt="galatadesalegn's profile views" />
   </a>
 </p>
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I am an AI engineer and Full-stack web developer. I work with the MERN stack, AI-based Web automation,
@@ -21,9 +19,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=galatadesalegn&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="galatadesalegn's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=galatadesalegn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="galatadesalegn's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=galatadesalegn&theme=tokyonight&radius=10" alt="galatadesalegn's Activity Graph" />
 </p>
 
 
@@ -114,13 +109,7 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
